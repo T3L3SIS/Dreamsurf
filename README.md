@@ -1,2 +1,2 @@
 # Dreamsurf
-An endless boardsurfing game
+An endless, trick-focused boardsurfing game
