@@ -11,7 +11,7 @@ It's as much about the feeling of movement as it is about tricks. Put on your ow
 
 ## Ways to ride
 
-*Screenshots from v0.29.5, the upcoming release.*
+*Screenshots from v0.29.5, from the 0.29 development cycle.*
 
 ### Flow
 
@@ -43,9 +43,9 @@ A gentle, snowy slope with room to repeat tricks at lower speeds. Learn the move
 
 Dreamsurf is an independent, AI-assisted project built with Godot. It began as a small boardsport experiment and is evolving around the feel of riding, expressive animation and varied environments.
 
-**Upcoming milestone: v0.29.5.** The 0.29 development cycle reorganizes the underlying code, refines the plush rider, and substantially expands the terrain and trick possibilities across the three main modes.
+**Next release candidate: v0.29.5.2.** The 0.29 development cycle reorganizes the underlying code, refines the plush rider, and substantially expands the terrain and trick possibilities across the three main modes.
 
-The [releases page](https://github.com/T3L3SIS/Dreamsurf/releases) lists the builds currently available to download. The [development history](CHANGELOG.md) covers the previous public milestone.
+The [releases page](https://github.com/T3L3SIS/Dreamsurf/releases) lists the builds currently available to download. The [development history](CHANGELOG.md) covers the current candidate and previous public milestones.
 
 ## Download and technical information
 
