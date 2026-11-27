@@ -1,7 +1,7 @@
 <p align="center"><img src="media/bear.png" width="76" alt="Dreamsurf teddy icon"></p>
 <h1 align="center">Dreamsurf</h1>
 <p align="center">An endless downhill board-riding game with tropical scenery and freestyle tricks.</p>
-<p align="center"><img src="media/title.webp" width="960" alt="Dreamsurf title screen"></p>
+<p align="center"><img src="media/gameplay.webp" width="1266" alt="Dreamsurf gameplay — carving through a tropical course"></p>
 
 **[Releases](https://github.com/T3L3SIS/Dreamsurf/releases)** · **[What's changed](CHANGELOG.md)** · **[Windows compatibility](WINDOWS.md)** · **[Checksums](SHA256SUMS.txt)**
 
