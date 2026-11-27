@@ -1,48 +1,56 @@
-<p align="center"><img src="media/bear.png" width="76" alt="Dreamsurf teddy icon"></p>
+<p align="center"><img src="media/bear.png" width="64" alt="Dreamsurf teddy bear icon"></p>
 <h1 align="center">Dreamsurf</h1>
-<p align="center">An endless downhill board-riding game with tropical scenery and freestyle tricks.</p>
-<p align="center"><img src="media/gameplay.webp" width="1266" alt="Dreamsurf gameplay — carving through a tropical course"></p>
+<p align="center">An endless downhill boardsport game.</p>
+<p align="center"><img src="media/title-0295.webp" width="800" alt="Dreamsurf title screen overlooking a pastel coastal landscape"></p>
 
-**[Releases](https://github.com/T3L3SIS/Dreamsurf/releases)** · **[What's changed](CHANGELOG.md)** · **[Windows compatibility](WINDOWS.md)** · **[Checksums](SHA256SUMS.txt)**
+<p align="center"><a href="https://github.com/T3L3SIS/Dreamsurf/releases"><strong>Download Dreamsurf</strong></a> &nbsp;·&nbsp; <a href="CHANGELOG.md">Development history</a></p>
 
-Dreamsurf is a small independent, AI-assisted Godot project. Ride as a teddy bear across stylized tropical landscapes, bring your own music, or learn increasingly elaborate combinations inspired by snowboarding and skateboarding. There is no mandatory progression.
+Dreamsurf is a small, independent game about riding downhill through a dreamlike world of pastel islands, winding slopes, turquoise water and strange little landmarks. You ride as a teddy bear on a board, somewhere between snowboarding, longboarding and surfing.
 
-## Modes
+It's as much about the feeling of movement as it is about tricks. Put on your own music and carve for a while, discover a different route, or spend time learning how to link presses, spins, grabs and grinds into a single run. There is no mandatory progression.
 
-| Mode | Description |
-| --- | --- |
-| Flow | Relaxed downhill riding |
-| Freestyle | Scored tricks, branching combos, wide flat sections and optional jumps |
-| Exploration | Unscored exploration |
-| Practice | A gentle snowy beginner slope for experimenting with tricks |
+## Ways to ride
 
-## Controls (defaults)
+*Screenshots from v0.29.5, the upcoming release.*
 
-| Key | Action |
-| --- | --- |
-| A / D | Steer |
-| W | Accelerate; double-tap and hold to tuck |
-| S | Brake / airborne middle grab |
-| Shift | Carve |
-| Space | Jump / loaded pop |
-| Arrow keys | Directional tricks |
-| S + hold left/right arrow in air | Controlled grab spin |
-| R / V / Esc | Reset / camera / pause |
+### Flow
 
-Movement and trick bindings are customizable. The in-game six-tab trick guide explains timing, releases and chains. Full controller support is deferred.
+![Flow mode — an open, rolling downhill ribbon](media/flow-0295.webp)
+
+Unscored downhill riding. Wide carving arcs, gentle rollers and long banked turns leave room to choose your own line. The emphasis is on rhythm, momentum and the landscape.
+
+### Freestyle
+
+| Aerial tricks | Halfpipe |
+| :---: | :---: |
+| ![Freestyle — an aerial grab](media/freestyle-0295.webp) | ![Freestyle — a sideways aerial trick above a halfpipe wall](media/halfpipe-0295.webp) |
+
+A downhill terrain park for expressive, linked tricks. Butter across flat sections, launch from big jumps and halfpipe walls, or find your way onto a pair of grind rails. Chase a score if you want, or simply experiment with how the board moves.
+
+### Exploration
+
+![Exploration — Moonstone gateway and wooded coastal hills](media/exploration-0295.webp)
+
+Take a less direct route. Scenic terraces, branching paths, ruins and quiet gardens offer different views and discoveries. The exploration journal records the places you find, without putting you on a timer.
+
+### Practice / Bunny Slope
+
+![Practice — a teddy bear riding through a quiet snowy landscape](media/practice-0295.webp)
+
+A gentle, snowy slope with room to repeat tricks at lower speeds. Learn the movement at your own pace, away from scores and park features. An in-game trick guide is available whenever you need it.
 
 ## Development
 
-Current development milestone: **v0.28.2.7**. Compared with the first public release, [v0.25.12](https://github.com/T3L3SIS/Dreamsurf/releases/tag/v0.25.12), the trick system is more interconnected, Freestyle has a dedicated park layout, and Practice is a separate snowfield. Read the [cumulative changelog](CHANGELOG.md) for the full overview.
+Dreamsurf is an independent, AI-assisted project built with Godot. It began as a small boardsport experiment and is evolving around the feel of riding, expressive animation and varied environments.
 
-Next: technical maturity, performance and stability. Future environmental expansion and controller support are planned without a fixed schedule.
+**Upcoming milestone: v0.29.5.** The 0.29 development cycle reorganizes the underlying code, refines the plush rider, and substantially expands the terrain and trick possibilities across the three main modes.
 
-## Download / source
+The [releases page](https://github.com/T3L3SIS/Dreamsurf/releases) lists the builds currently available to download. The [development history](CHANGELOG.md) covers the previous public milestone.
 
-Use the [Releases page](https://github.com/T3L3SIS/Dreamsurf/releases) for playable Windows packages and the Godot project archive. Extract the chosen ZIP completely before opening it. Godot is not needed to play the Windows builds. To edit the project, use Godot 4.7.1 and import the extracted project.godot.
+## Download and technical information
 
-The current milestone targets Windows x64 and x32; ARM64 is not included in the new packages. See [Windows notes](WINDOWS.md) for security and graphics troubleshooting.
+Download a Windows build from [Releases](https://github.com/T3L3SIS/Dreamsurf/releases), extract the entire archive and launch the executable. No Godot installation is needed to play. Godot project archives, when provided, can be imported into Godot 4.7.1.
 
-## Licensing
+[Windows compatibility and security](WINDOWS.md) · [Download checksums](SHA256SUMS.txt)
 
-Godot is MIT-licensed; the Windows packages and source project contain Godot's license and third-party copyright notices. Those notices do not grant a license to Dreamsurf's own code or assets. No separate open-source license is declared here; consult the project owner for reuse permissions. Additional asset provenance and notice coverage have not been independently audited.
+Godot is MIT-licensed; supplied project and Windows archives include its license and third-party notices. Those notices do not license Dreamsurf's own code or assets. No separate open-source license is currently declared; contact the project owner about reuse.
